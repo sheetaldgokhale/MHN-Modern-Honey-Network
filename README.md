@@ -12,7 +12,6 @@ Installation of MHN Server on AWS EC2 Instance are as follows:
 6. sudo ./install.sh
 7. Deploy script of honeypot sensor and keep tcp port 10000 open for sensors to communicate intrusion data with MHN server.
 
-
 MHN inbound rules
 ![InkedMHN inbound rule 1_LI](https://user-images.githubusercontent.com/73482919/114271727-8aa35600-9a30-11eb-9a86-456be8fc25a5.jpg)
 
@@ -28,7 +27,7 @@ To ensure that everything is in order, run these three commands, and the output 
 
 
 Deploy Script i.e. honeypot sensors using the Deploy option from dashboard
- ![Deploy Script 2020-06-08 ](https://user-images.githubusercontent.com/73482919/114271751-a870bb00-9a30-11eb-899c-3246e27bc11a.png)
+![Deploy Script 2020-06-08 ](https://user-images.githubusercontent.com/73482919/114271944-8fb4d500-9a31-11eb-8400-09c308e5013d.png)
 
 
 MHN Dasboard
