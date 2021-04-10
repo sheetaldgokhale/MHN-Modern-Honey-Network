@@ -12,8 +12,10 @@ Installation of MHN Server on AWS EC2 Instance are as follows:
 6. sudo ./install.sh
 7. Deploy script of honeypot sensor and keep tcp port 10000 open for sensors to communicate intrusion data with MHN server.
 
+
 MHN inbound rules
 ![InkedMHN inbound rule 1_LI](https://user-images.githubusercontent.com/73482919/114271727-8aa35600-9a30-11eb-9a86-456be8fc25a5.jpg)
+
 
 
 MHN Installation
@@ -24,10 +26,13 @@ To ensure that everything is in order, run these three commands, and the output 
 2. sudo /etc/init.d/supervisor status
 3. sudo supervisorctl status
 
- Deploy Script i.e. honeypot sensors using the Deploy option from dashboard
+
+Deploy Script i.e. honeypot sensors using the Deploy option from dashboard
  ![Deploy Script 2020-06-08 ](https://user-images.githubusercontent.com/73482919/114271751-a870bb00-9a30-11eb-899c-3246e27bc11a.png)
 
+
 MHN Dasboard
+
 ![Attack Stats 2020-06-08 ](https://user-images.githubusercontent.com/73482919/114271775-c8a07a00-9a30-11eb-9a35-c806ced007bc.png)
 
 ![DionaeaConnections and ConpotEvents 2020-06-08](https://user-images.githubusercontent.com/73482919/114271803-e968cf80-9a30-11eb-9972-5ca3781803b4.png)
