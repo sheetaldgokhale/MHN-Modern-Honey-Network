@@ -1,7 +1,6 @@
 # MHN---Modern-Honey-Network
 
-MHN is a centralised server for honeypot management and data collection. It enables users to quickly deploy honeypot sensors or scripts to collect attack data points. The gathered data or statistics can be viewed via an MHN dashboard or web interface. Several standard honeypot scripts, such as Snort, Cowrie, Dionaea, and glastopf, as well as a few others, are available under the “Deploy script” option.
-MHN incorporates a collection of sensors to collect data on network attacks. MHN analyses the attack and its parameters, which are displayed on a World Map, while retaining a wealth of information about the attack.
+MHN is a centralised server for honeypot management and data collection. It enables users to quickly deploy honeypot sensors or scripts to collect attack data points. The gathered data or statistics can be viewed via an MHN dashboard or web interface. Several standard honeypot scripts, such as Snort, Cowrie, Dionaea, and glastopf, as well as a few others, are available under the “Deploy script” option. MHN incorporates a collection of sensors to collect data on network attacks. MHN analyses the attack and its parameters, which are displayed on a World Map, while retaining a wealth of information about the attack.
 
 Installation of MHN Server on AWS EC2 Instance are as follows:
 1. Select Ubuntu 16.04 ec2 instance (Instance Type: t2.small)
